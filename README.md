@@ -1,0 +1,1 @@
+Este Projeto tem como intuito, criar todas as etapas de um software para gestão de frota que possa ser interligado com uma ferramenta de BI. Longe de ser um codigo completo é apenas um esboço inicial do projeto
